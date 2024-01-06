@@ -1,10 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Steve W. Palmer</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap" rel="stylesheet">
+    <title>Steve Palmer</title>
     <link href="spalmer.css" rel="stylesheet">
     <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" /> 
     <meta http-equiv="Pragma" content="no-cache" />
@@ -13,8 +10,8 @@
 <body>
     <div>
         <a href='/' class="header">
-            <img alt="Black and white picture of Cuttbridge Cottage" src="images/title.png" style="height:100px;float:left;">
-            <span class="title" style="float:left;margin-left:20px;">Steven W. Palmer</span>
+            <img class="logo" alt="The Thinker" src="images/title.jpg">
+            <span class="title">Steve Palmer</span>
         </a>
     </div>
     <div class="clearfix"></div>

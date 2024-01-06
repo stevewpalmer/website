@@ -12,6 +12,13 @@ body {
 .title {
     font-family: Great Vibes;
     font-size: 50px;
+    float:left;
+    margin-left:20px;
+}
+
+.logo {
+    height:100px;
+    float:left;
 }
 
 .clearfix::after {
